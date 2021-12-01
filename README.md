@@ -4,3 +4,4 @@ Software für ein Restaurant um, Bestellungen, Reservierungen und Personalplanun
 
 ## Teilnehmer
 Khaled Kalo
+Jasmin Becker
